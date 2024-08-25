@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-Dux/static/css/main.9dd34d8a.css",
+    "main.js": "/Movie-Dux/static/js/main.d88e3e70.js",
+    "static/js/453.7fe377bf.chunk.js": "/Movie-Dux/static/js/453.7fe377bf.chunk.js",
+    "static/media/logo.svg": "/Movie-Dux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movie-Dux/index.html",
+    "main.9dd34d8a.css.map": "/Movie-Dux/static/css/main.9dd34d8a.css.map",
+    "main.d88e3e70.js.map": "/Movie-Dux/static/js/main.d88e3e70.js.map",
+    "453.7fe377bf.chunk.js.map": "/Movie-Dux/static/js/453.7fe377bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd34d8a.css",
+    "static/js/main.d88e3e70.js"
+  ]
+}
